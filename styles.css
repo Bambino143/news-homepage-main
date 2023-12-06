@@ -148,15 +148,6 @@ main > :last-child {
 .gray {
   color: var(--Grayish-blue);
 }
-.attribution {
-  margin-top: 50px;
-  font-size: 10px;
-  text-align: center;
-}
-.attribution a {
-  text-decoration: none;
-  color: hsl(228, 45%, 44%);
-}
 
 @media (max-width: 675px) {
   ul {
